@@ -62,5 +62,5 @@ public class TareaLibro {
         System.out.println("Numero de Paginas: " + tLibro.getNumPaginas());
         tLibro.cambPag();
     } 
-     
+   
 }

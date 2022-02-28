@@ -78,4 +78,3 @@ public class Libro {
         System.out.println("El libro " + this.nombre + " esta siendo utilizado y estan cambiando de pagina");
     }
 }
- 
